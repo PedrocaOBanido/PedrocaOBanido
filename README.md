@@ -1,4 +1,4 @@
-# 👨🏻‍💻 AboutMe
+# 👨🏻‍💻 AboutMe (ou carta de apresentação kk)
 Sou aluno de ADS da estácio, e, atualmente, de engenharia mecânica na UFAM (em 2025 vou mudar para Engenharia de Software).
 
 ## 💻 Como conheci a programação?
