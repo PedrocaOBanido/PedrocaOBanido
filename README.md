@@ -4,7 +4,7 @@ Sou aluno de ADS da estácio, e, atualmente, de engenharia mecânica na UFAM (em
 ## Como conheci a programação?
 Durante a pandemia tive a oportunidade de aprender um pouco mais sobre um miriar de coisas, e computação foi um desses tópicos, onde utilizei do OpenCourseWare do MIT para iniciar meus estudos.
 
-## Situação acadêmica atual
+## :🎓:Situação acadêmica atual
 Em 2022, decidi me matricular no curso de Engenharia Mecânica na UFAM, de inicio gostei muito do curso porém, ao decorrer fui entendendo que, infelizmente, não era para mim no terceiro semestre do curso - aliás esse meu período na UFAM, os semestres foram de 85 dias kk - e portanto, ainda durante meu estágio em Test Engineering na Jabil, decidi ingressar em ADS para já adiantar algumas matérias, mesmo que a UFAM não aceite disciplinas de instuições particulares, por conta de requisitos de ementa.
 
 ## Por quê me escolher?
