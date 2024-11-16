@@ -1,18 +1,21 @@
 # 👨🏻‍💻 README (ou carta de apresentação kk)
-Sou aluno de ADS da estácio, e, atualmente, de engenharia mecânica na UFAM (em 2025 vou mudar para Engenharia de Software).
+
+Sou aluno de ADS na Estácio e, atualmente, de Engenharia Mecânica na UFAM (em 2025, vou mudar para Engenharia de Software).
 
 ## 💻 Como conheci a programação?
-Durante a pandemia tive a oportunidade de aprender um pouco mais sobre um miriar de coisas, e computação foi um desses tópicos, onde utilizei do OpenCourseWare do MIT para iniciar meus estudos.
+
+Durante a pandemia, tive a oportunidade de aprender mais sobre diversos assuntos, e a computação foi um deles. Utilizei o OpenCourseWare do MIT para iniciar meus estudos.
 
 ## 🎓 Situação acadêmica atual
-Em 2022, decidi me matricular no curso de Engenharia Mecânica na UFAM, de inicio gostei muito do curso porém, ao decorrer fui entendendo que, infelizmente, não era para mim no terceiro semestre do curso - aliás esse meu período na UFAM, os semestres foram de 85 dias kk - e portanto, ainda durante meu estágio em Test Engineering na Jabil, decidi ingressar em ADS para já adiantar algumas matérias, mesmo que a UFAM não aceite disciplinas de instuições particulares, por conta de requisitos de ementa.
 
-## 👨🏻‍💼 Por quê me escolher?
+Em 2022, matriculei-me em Engenharia Mecânica na UFAM. Inicialmente, gostei muito do curso, porém, com o tempo, percebi que não era a área ideal para mim. No terceiro semestre — aliás, os semestres na UFAM tinham 85 dias, kk — e durante meu estágio em Test Engineering na Jabil, decidi ingressar em ADS para adiantar algumas matérias, mesmo que a UFAM não aceite disciplinas de instituições particulares devido a requisitos de ementa.
 
-Durante o ano 2023, participei do Núcleo de Automação e Robótica da UEA, onde auxiliei no projeto de um equipamento para rastreio de processo na Wasion da Amazônia, onde aprendi sobre sistemas e software embarcado, que foi um dos gatilhos para que eu decidisse ir para a área de TI. 
+## 👨🏻‍💼 Por que me escolher?
 
-Como disse antiormente, fui estagiário na Jabil na área de Test Engineering, de fevereiro de 2024 até agosto de 2024, onde realizei alguns projetos de melhoria, devidamente supervisionados (inclusive, um destes projetos está em um dos meus repositórios, onde refatorei para não incluir informações sensíveis), elaborei ferramentas de manutenção preditiva, utilizei destas ferramentas para montar uma rede de informação para apresentar os reports de produção para a unidade de business do meu setor, também tive oportunidade de lidar diretamnete com os clientes, incluindo estrangeiros, onde a comunicação foi realizada somente em inglês. 
+Durante o ano de 2023, participei do Núcleo de Automação e Robótica da UEA, onde ajudei no projeto de um equipamento para rastreio de processo na Wasion da Amazônia.  Aprendi sobre sistemas e software embarcado, o que me impulsionou a seguir a área de TI.
 
-Creio que possuo o necessário para me ajustar a qualquer ambiente, e além de capaz de aprender, demonstrar interesse sobre os elementos que compõeem o meu trabalho.
+Como mencionado anteriormente, estagiei na Jabil na área de Test Engineering, de fevereiro a agosto de 2024. Realizei projetos de melhoria devidamente supervisionados (um deles está em um dos meus repositórios, refatorado para remover informações sensíveis), elaborei ferramentas de manutenção preditiva e utilizei-as para criar uma rede de informação que apresentava relatórios de produção à unidade de negócios do meu setor. Também tive a oportunidade de interagir diretamente com clientes, incluindo estrangeiros, comunicando-me exclusivamente em inglês.
 
-Neste repositório deixei meu currículo em .pdf, caso haja interesse sobre uma possível vaga de estágio.
+Creio possuir a capacidade de me adaptar a qualquer ambiente e, além de aprender, demonstrar interesse pelos elementos que compõem meu trabalho.
+
+Neste repositório, deixei meu currículo em PDF, caso haja interesse em uma possível vaga de estágio.
