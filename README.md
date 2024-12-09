@@ -1,4 +1,4 @@
-# 👨🏻‍💻 README (ou carta de apresentação kk)
+# 👨🏻‍💻 README
 
 Sou aluno de ADS na Estácio e, atualmente, de Engenharia Mecânica na UFAM (em 2025, vou mudar para Engenharia de Software).
 
