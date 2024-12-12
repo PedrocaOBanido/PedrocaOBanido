@@ -8,7 +8,7 @@ Durante a pandemia, tive a oportunidade de aprender mais sobre diversos assuntos
 
 ## 🎓 Situação acadêmica atual
 
-Em 2022, matriculei-me em Engenharia Mecânica na UFAM. Inicialmente, gostei muito do curso, porém, com o tempo, percebi que não era a área ideal para mim. No terceiro semestre — aliás, os semestres na UFAM tinham 85 dias, kk — e durante meu estágio em Test Engineering na Jabil, decidi ingressar em ADS para adiantar algumas matérias, mesmo que a UFAM não aceite disciplinas de instituições particulares devido a requisitos de ementa.
+Em 2022, matriculei-me em Engenharia Mecânica na UFAM. Inicialmente, gostei muito do curso, porém, com o tempo, percebi que não era a área ideal para mim. No terceiro semestre — aliás, os semestres na UFAM tinham 85 dias, kk — e durante meu estágio em Test Engineering na Jabil, por volta do meu quinto semestre em Engenharia Mecânica, decidi ingressar em ADS para adiantar algumas matérias, mesmo que a UFAM não aceite disciplinas de instituições particulares devido a requisitos de ementa. E após a realização de transferência interna, ingressei no curso de Engenharia de Software.
 
 ## 👨🏻‍💼 Por que me escolher?
 
