@@ -1,6 +1,6 @@
 # 👨🏻‍💻 README
 
-Sou aluno de ADS na Estácio e, atualmente, de Engenharia Mecânica na UFAM (em 2025, vou mudar para Engenharia de Software).
+Faço parte do curso de Engenharia de Software da UFAM (Universidade Federal do Amazonas), e estarei formado em dez de 2026 (espero...)
 
 ## 💻 Como conheci a programação?
 
